@@ -1,0 +1,4 @@
+name: neko-rpg-core-bukkit
+version: '${project.version}'
+main: top.nekoit.mc.bukkit.Plugin
+api-version: 1.19
